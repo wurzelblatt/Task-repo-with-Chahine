@@ -1,2 +1,2 @@
 some information
-update to some information
+update some information
